@@ -60,7 +60,7 @@ Dual-axis chart showing conversion rate (line) and session volume (bars). CVR% s
 
 ## Tools & Stack
 
-- **Visualization:** Power BI / Tableau *(or specify your tool)*
+- **Visualization:** Data Studio (Looker)
 - **Data Source:** Paid media platform exports (Google Ads, Meta Ads Manager, TikTok Ads, etc.)
 - **Region:** MENA (Middle East & North Africa)
 - **Period:** Full Year 2025
@@ -79,4 +79,4 @@ Dual-axis chart showing conversion rate (line) and session volume (bars). CVR% s
 
 ## Contact
 
-Feel free to reach out via [LinkedIn](#) or open an issue for questions or collaboration.
+Feel free to reach out via www.linkedin.com/in/jevonlrobinson or open an issue for questions or collaboration.
